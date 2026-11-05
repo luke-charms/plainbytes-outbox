@@ -1,0 +1,9 @@
+Your phone and every website have an address. Here's how it works in 30 seconds.
+
+An IP address is like a street address for your device: every request carries your address and the destination, and routers pass it along until it arrives. Websites usually see one shared address for your whole home, and it can change.
+
+Follow PlainBytes for more tech, explained simply.
+
+Visuals and narration in this video are AI-generated.
+
+#tech #IPaddress #shorts
